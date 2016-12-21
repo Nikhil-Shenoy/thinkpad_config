@@ -1,0 +1,5 @@
+Overarching Desktop Environment: XFCE
+Dock: DockbarX
+Themes: Rele
+
+Transparent Terminal?
