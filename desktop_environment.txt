@@ -3,3 +3,22 @@ Dock: DockbarX
 Themes: Rele
 
 Transparent Terminal?
+
+Components:
+	- Window manager
+		- Openbox (lubuntu)
+		- i3: focused on keyboard shortcuts for organizing windows
+	- Docks:
+		- Cairo: 3D dock. Enable OpenGL for best effects
+		- Docky: starts pretty minimal
+	- File Managers:
+		- PCManFM: manager of LXDE in Lubuntu
+		- XFE: Super light-weight
+	- Compositor (for extra eye-candy):
+		- Compton
+	- Desktop wallpaper:
+		- Feh: command line tool to set "root window" image
+	- Shell: Bash (still)
+
+Advice: 
+	- Do not bind applications through the Window Manager (WM)

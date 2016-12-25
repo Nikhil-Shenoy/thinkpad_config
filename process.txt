@@ -1,0 +1,29 @@
+Window Manager:
+	Copy default xinitrc to user's home folder:
+		- cp /etc/X11/xinit/xinitrc ~/.xinitrc
+	- Add "exec i3" to ~/.xinitrc
+
+	Do i3 configuration (http://i3wm.org/docs/userguide.html#configuring)
+
+Themes and Appearance:
+	Application Themes:
+		- Split into GTK and QT environments
+		- Arc or Evopop (GTK)
+	Icon Themes:
+		- Moka
+		- Numix Circle
+		- Elementary
+
+Dock: Docky
+
+File Manager:
+	- Nautilus
+	- Thunar
+
+Compositor: (Compton?)
+
+Login Manager:
+
+Boot Manager:
+
+System Monitor: Conky
