@@ -1,0 +1,9 @@
+Installed:
+	- i3
+	- Plank
+	- hsetroot
+	- GTK (already there)
+	- Numix theme and icons
+	- pcmanfm
+
+Continue from here: https://www.linuxvoice.com/create-your-own-desktop-environment/

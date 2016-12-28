@@ -1,2 +1,10 @@
-Display server
-Window manager
+Window manager: i3
+Dock: 
+	- Trying Plank first
+	- Docky (for now). Can use up a decent amount of resources
+Install hsetroot to set background image
+Icons: Numix Circle
+GTK: Numix
+Theme: Arc-Darker
+Compositor: Compton
+File Manager: PCManFM
